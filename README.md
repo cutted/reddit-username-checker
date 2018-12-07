@@ -1,8 +1,8 @@
 #  Reddit Username Checker
 ### Credit
-  Original source for this came from [here](https://youtu.be/96EBlrKOpH4) the authour is [c0rtepentest](https://twitter.com/c0rtepentest)
+  Original source for this came from [here](https://youtu.be/96EBlrKOpH4), the authour is [c0rtepentest](https://twitter.com/c0rtepentest).
   
-  Code has been used from the [cli-checker](https://github.com/crock/cli-checker) and this guide is based off its [installation](https://github.com/crock/cli-checker/wiki/Installation) big thanks to [Crock](https://github.com/crock)
+  Code has been used from the [cli-checker](https://github.com/crock/cli-checker) and this guide is based off its [installation](https://github.com/crock/cli-checker/wiki/Installation), big thanks to [Crock](https://github.com/crock)
   
 ### Python Install
   Well first off you need the right `python 3+` [installer](https://www.python.org/downloads/) given it is only compatible with that.
