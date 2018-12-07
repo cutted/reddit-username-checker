@@ -1,4 +1,5 @@
 # Reddit Username Checker
+
 ## Credit
 
   Original source for this came from [here](https://youtu.be/96EBlrKOpH4), the authour is [c0rtepentest](https://twitter.com/c0rtepentest) it was in a old python format.
