@@ -1,7 +1,7 @@
-#  Reddit Username Checker
+Alt-H1  Reddit Username Checker
 ## Credit
 
-  Original source for this came from [here](https://youtu.be/96EBlrKOpH4), the authour is [c0rtepentest](https://twitter.com/c0rtepentest).
+  Original source for this came from [here](https://youtu.be/96EBlrKOpH4), the authour is [c0rtepentest](https://twitter.com/c0rtepentest) it was in a old python format.
   
   Code has been used from the [cli-checker](https://github.com/crock/cli-checker) and this guide is based off its [installation](https://github.com/crock/cli-checker/wiki/Installation), big thanks to [Crock](https://github.com/crock).
   
