@@ -1,5 +1,9 @@
 # Reddit Username Checker
-
+  ![Checker Image](https://i.imgur.com/YgLHd0z.png)
+  
+  You can either do manual or bulk!
+  I apologise now for the speed if it is a very long word list.
+  
 ## Credit
 
   Original source for this came from [here](https://youtu.be/96EBlrKOpH4), the authour is [c0rtepentest](https://twitter.com/c0rtepentest) it was in a old python format.
