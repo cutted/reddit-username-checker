@@ -20,7 +20,7 @@
 ## Installation
 
 1. Download the zip or clone the repository with Git onto your machine.
-2. Install the dependencies using the the following command inside Command Prompt (Windows) or Terminal (Mac). If you use Python.exe, it will not work.
+2. Install the dependencies using the following command inside Command Prompt (Windows) or Terminal (Mac). If you use Python.exe, it will not work.
 
 ```
 python -m pip install configparser requests
