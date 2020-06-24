@@ -70,5 +70,5 @@ Make sure to read the config.ini and README.md on github
 		else:
 			option = input("1 or 2 ... Please!: ")
 main()
-# recoded by https://github.com/cutted
+# recoded by https://github.com/jnoc
 
